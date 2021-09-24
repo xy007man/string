@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/test.dir/main.cpp.o CMakeFiles/test.dir/gtest.cpp.o  -o ../../app/test   -L/home/xy/workspace/string/lib  -L/home/xy/workspace/string/3rd_party/lib  -Wl,-rpath,/home/xy/workspace/string/lib:/home/xy/workspace/string/3rd_party/lib ../../lib/libstring.so -lgtest -lgmock -lgmock_main -lgtest_main -lpthread 
